@@ -30,5 +30,9 @@ collinearity, and the assumptions of a multiple linear regression have not been 
 more robust statistical method. When finding the best alpha value to use in the regression, the searching 
 intervals can be manipulated with more or less intervals between the chosen range of values i.e., (0, 10, 100) denotes 100 values between 0 and 10.
 
-Whilst this code is simplistic, it may be useful for beginners to become familiar with Python language and complete descriptive data analysis and statistical modelling. The code can be applied to a range of data, but users should follow the narrative of the analysis and adjust parameters where necessary to best fit the data of interest. 
+Whilst this code is simplistic, it may be useful for beginners to become familiar with Python language and complete descriptive data analysis and statistical modelling. The code can be applied to a range of data, but users should follow the narrative of the analysis and adjust parameters where necessary to best fit the data of interest.
+
+Acknowledgements
+With thanks to Matt Williams and Callum Young for their help and sharing their code.
+
 
