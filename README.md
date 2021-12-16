@@ -20,7 +20,7 @@ concentrations).
 (Attr) to ensure the attribute of interest is substituted into the simple model. Users may wish to change 
 whether the intercept is fixed, but this is set to True as default, as is the split of train/test data 
 (75/25). I found no single variable to strongly predict diabetes progression one year after baseline. 
-6. Moving on to multiple linear regressions, again variables can be substituted into the model as desired, 
+6. Moving on to a multiple linear regression, again variables can be substituted into the model as desired, 
 and the intercept is fixed as default. Four predictive variables were selected here due to their 
 physiological relevance to diabetes however the model score was not satisfactory.
 7. When assessing the collinearity heatmap for predictive variables, it became evident that a ridge regression model may be 
