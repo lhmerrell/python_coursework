@@ -1,11 +1,11 @@
 Diabetes (scikit.learn)
 
-This Jupyter notebook is designed to descriptively analyse and then run predictive models on diabetes data from 442 participants. The code is largely generic and could be applied to other datasets with one target variable and many predictors. However, care must be taken when choosing the most appropriate type of regression model and therefore code may be added/removed to best fit the data.
+This Jupyter Notebook is designed to descriptively analyse and then run predictive models on diabetes data from 442 participants. The code is largely generic and could be applied to other datasets with one target variable and many predictors. However, care must be taken when choosing the most appropriate type of regression model and therefore code may be added/removed to best fit the data.
 
 To run: 
 
-1. The core modules are at the top of the notebook, with additional modules found at relevant points 
-throughout the notebook. 
+1. The core modules are at the top of the Notebook, with additional modules found at relevant points 
+throughout the Notebook. 
 2. A separate data file is not needed for import as the URL for the dataset from 
 scikit.learn is embedded in the code "https://www4.stat.ncsu.edu/~boos/var.select/diabetes.tab.txt". 
 Whilst the variable names could be changed in the .tab file, it is best for repeatability to use those 
