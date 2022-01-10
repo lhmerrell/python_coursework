@@ -32,6 +32,6 @@ intervals can be manipulated with more or less intervals between the chosen rang
 
 Whilst this code is simplistic, it may be useful for beginners to become familiar with Python language and complete descriptive data analysis and statistical modelling. The code can be applied to a range of data, but users should follow the narrative of the analysis and adjust parameters where necessary to best fit the data of interest.
 
-Acknowledgements: With thanks to Matt Williams and Callum Young for their help and sharing their code.
+Acknowledgements: With thanks to Matt Williams (https://milliams.com/courses/) and Callum Young (fellow SWBio DTP Student) for their help and sharing their code.
 
 
